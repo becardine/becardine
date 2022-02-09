@@ -10,8 +10,7 @@
 
 ## Languages  👨‍💻
 
-[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine)](https://github.com/becardine/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact)](https://github.com/becardine/github-readme-stats)
+[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine)](https://github.com/becardine/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact)](https://github.com/becardine/github-readme-stats)
  
 
 ## About me
