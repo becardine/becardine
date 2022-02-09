@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @becardine
-- 👀 I’m interested in #development #career #technology
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on in projects that help me start to understand from beginning to end of an application
-- 📫 How to reach me [LinkedIn](https://br.linkedin.com/in/becardine)
+# Hello World!
 
-<!---
-becardine/becardine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+
+## I'm Brenda! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
+
+ 
+
+... Frontend Developer! :computer:
+
+## Languages  👨‍💻
+
+[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine)](https://github.com/becardine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact)](https://github.com/becardine/github-readme-stats)
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/becardine/)](https://github.com/becardine/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becardine/)]( https://www.linkedin.com/in/becardine/)
+
+- Thanks for visiting.  ❤
