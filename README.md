@@ -6,7 +6,7 @@
 
  
 
-... Frontend Developer! :computer:
+... frontend developer student! :computer:
 
 ## Languages  👨‍💻
 
