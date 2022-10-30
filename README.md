@@ -8,7 +8,7 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=vuetify-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=vuetify&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
