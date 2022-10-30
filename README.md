@@ -14,7 +14,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
-[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&count_private=true)](https://github.com/becardine/github-readme-stats) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BECARDINE)
+
+<!---[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&count_private=true)](https://github.com/becardine/github-readme-stats) --->
 
 ## connect in
 
