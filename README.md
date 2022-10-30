@@ -6,13 +6,13 @@
 
 ![](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/vuetify-%2338B2AC.svg?logo=vuetify&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-%2338B2AC.svg?logo=vuetify&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 
 [![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&count_private=true)](https://github.com/becardine/github-readme-stats) 
 
