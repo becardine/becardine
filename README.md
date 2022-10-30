@@ -4,7 +4,7 @@
 
 ## languages  👨‍💻
 
-![](https://img.shields.io/badge/JavaScript-%23323330.svg&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
