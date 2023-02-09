@@ -30,4 +30,4 @@
 
 - thanks for visiting.  ❤
 
-![Profile views](https://gpvc.arturio.dev/becardine) 
+<!---![Profile views](https://gpvc.arturio.dev/becardine) --->
