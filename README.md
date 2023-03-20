@@ -14,9 +14,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=transparent)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=transparent)-->
 
 
 <!---![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BECARDINE)-->
