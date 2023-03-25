@@ -1,6 +1,6 @@
 # i'm be! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
 
-... frontend developer! :computer:
+...  full stack developer! :computer:
 
 ## languages  👨‍💻
 
