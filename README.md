@@ -1,33 +1,146 @@
-# i'm be! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
 
-...  full stack developer! :computer:
+<!---<p align="center">
+I'm analysis and systems development student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems. 
+</p>
 
-## languages  👨‍💻
+##
 
-<!---![](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-%2338B2AC.svg?logo=vuetify&logoColor=white)
+<br>-->
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=transparent)-->
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74476645/231586894-b7d7122c-e863-414c-9173-029b069a9976.svg" width="480px"/>
 
 
-<!---![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BECARDINE)-->
+<br>
 
-<!---[![becardine GitHub stats](https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&count_private=true)](https://github.com/becardine/github-readme-stats) --->
 
-## connect in
+- 🔭 I’m currently studying on **analysis and systems development**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becardine/)]( https://www.linkedin.com/in/becardine/)
-[![Instagram](https://img.shields.io/badge/becardine-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/becardine/)
+- 🌱 I’m currently learning **Angular and C#**.
 
-- thanks for visiting.  ❤
+- 📫 How to reach me: **becardiine@gmail.com**.
 
-<!---![Profile views](https://gpvc.arturio.dev/becardine) --->
+- 💬 Ask me about **HTML, CSS and JS**.
+
+- 🤝 I’m looking for help in learning about **backend with C#**.
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+<br>
+
+## 🎯 Future Goals
+
+- 📖 Learn the basics of **C#** programming language
+- 📱 Build a simple project from scratch, front and backend, with **Angular** and **C#**.
+- 🚀 Gain experience in developing full-stack.
+- 🌐 Improve my knowledge of web standards and incorporate them into my projects.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: becardine](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:becardiine@gmail.com)](mailto:becardiine@gmail.com)&nbsp;
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/becardine)](https://linktr.ee/becardine)&nbsp;
+[![Linkedin: becardine](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becardine)](https://www.linkedin.com/in/becardine)
+  
+</div>
+
+<!--<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Stats Overview](https://raw.githubusercontent.com/becardine/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/becardine/github-stats/main/generated/languages.svg#gh-dark-mode-only)
+
+</div>-->
+<br>
+
+
+
+<div align = "center">
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+<br>
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/-insomnia-5000C8?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
+</details>
+
+</div>
+
+
+<br>
+
+<h2 align="center">👨‍💻 More about me on GitHub</h2>
+
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=becardine&theme=radical&hide_border=true" alt="becardine" width="390"/>
+</p>
+</details>
+
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=becardine&theme=discord" alt="becardine" />
+</p>
+</details>
+
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=radical&count_private=true" alt="becardine" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact&theme=radical" alt="becardine" height="165">
+</p>
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=becardine.becardine">-->
+</details>
+  
+  
+<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
