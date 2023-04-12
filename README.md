@@ -70,17 +70,23 @@ I'm analysis and systems development student with a passion for web programming.
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
+    ![Nuxt.JS](https://img.shields.io/badge/-nuxt.js-41b883?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
+     ![Angular](https://img.shields.io/badge/-angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+    <br>
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
 </details>
 
 <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
 
+![PHP](https://img.shields.io/badge/-php-8993be?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/-LARAVEL-fb503b?style=for-the-badge&logo=LARAVEL&logoColor=white)&nbsp;   
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
