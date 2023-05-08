@@ -65,7 +65,7 @@ I'm analysis and systems development student with a passion for web programming.
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
-<details open>
+<details>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
   
@@ -81,7 +81,7 @@ I'm analysis and systems development student with a passion for web programming.
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>🧰 Backend</b></summary>
 <br>
 
@@ -92,7 +92,7 @@ I'm analysis and systems development student with a passion for web programming.
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -102,7 +102,7 @@ I'm analysis and systems development student with a passion for web programming.
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
