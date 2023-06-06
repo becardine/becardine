@@ -138,14 +138,11 @@ I'm analysis and systems development student with a passion for web programming.
 </p>
 </details>
 
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=radical&count_private=true" alt="becardine" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact&theme=radical&langs_count=6&hide=html,css,blade" alt="becardine" height="165">
 </p>
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=becardine.becardine">-->
-</details>
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=becardine.becardine">
   
   
-<h6 align="center">Show ❤️ and 🌟 my repositories!</h6>
+<h6 align="center">Show ❤️ and 🌟 my repositories!</h6>-->
