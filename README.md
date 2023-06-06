@@ -28,7 +28,7 @@ I'm analysis and systems development student with a passion for web programming.
 
 <br>
 
-## 🎯 Future Goals
+<!--## 🎯 Future Goals
 
 - 📖 Learn the basics of **C#** programming language
 - 📱 Build a simple project from scratch, front and backend, with **Angular** and **C#**.
@@ -36,14 +36,13 @@ I'm analysis and systems development student with a passion for web programming.
 - 🌐 Improve my knowledge of web standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 
-<br>
+<br>-->
 
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
     
 [![Gmail: becardine](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:becardiine@gmail.com)](mailto:becardiine@gmail.com)&nbsp;
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/becardine)](https://linktr.ee/becardine)&nbsp;
 [![Linkedin: becardine](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becardine)](https://www.linkedin.com/in/becardine)
   
 </div>
@@ -56,7 +55,7 @@ I'm analysis and systems development student with a passion for web programming.
 ![Stats Overview](https://raw.githubusercontent.com/becardine/github-stats/main/generated/overview.svg#gh-dark-mode-only)
 ![Most Used Languages](https://raw.githubusercontent.com/becardine/github-stats/main/generated/languages.svg#gh-dark-mode-only)
 
-</div>-->
+</div>
 <br>
 
 
@@ -117,7 +116,7 @@ I'm analysis and systems development student with a passion for web programming.
 
 </div>
 
-
+-->
 <br>
 
 <h2 align="center">👨‍💻 More about me on GitHub</h2>
@@ -149,4 +148,4 @@ I'm analysis and systems development student with a passion for web programming.
 </details>
   
   
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+<h6 align="center">Show ❤️ and 🌟 my repositories!</h6>
