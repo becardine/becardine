@@ -116,7 +116,7 @@ I'm analysis and systems development student with a passion for web programming.
 
 </div>
 
--->
+
 <br>
 
 <h2 align="center">👨‍💻 More about me on GitHub</h2>
@@ -136,7 +136,7 @@ I'm analysis and systems development student with a passion for web programming.
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=becardine&theme=discord" alt="becardine" />
 </p>
-</details>
+</details>-->
 
 <br>
 <p align="center">
