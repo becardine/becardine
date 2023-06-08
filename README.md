@@ -38,9 +38,9 @@ I'm analysis and systems development student with a passion for web programming.
 
 <br>-->
 
-<h2>📫 Connect with me</h2>
+<h2 align = "center">📫 Connect with me</h2>
 
-<div>
+<div align = "center">
     
 [![Gmail: becardine](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:becardiine@gmail.com)](mailto:becardiine@gmail.com)&nbsp;
 [![Linkedin: becardine](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becardine)](https://www.linkedin.com/in/becardine)
@@ -139,11 +139,11 @@ I'm analysis and systems development student with a passion for web programming.
 </p>
 </details>-->
 
+
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=becardine.becardine">
+  
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becardine&layout=compact&theme=radical&langs_count=6&hide=html,css,blade" alt="becardine" height="165">
 </p>
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=becardine.becardine">
-  
-
   <img src="https://github-readme-stats.vercel.app/api?username=becardine&show_icons=true&theme=radical&count_private=true" alt="becardine" width="420"/>&nbsp
 <h6 align="center">Show ❤️ and 🌟 my repositories!</h6>-->
