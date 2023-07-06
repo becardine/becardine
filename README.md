@@ -13,14 +13,11 @@ I'm analysis and systems development student with a passion for web programming.
 
 <br>
 
-
-- 🔭 I’m currently studying on **analysis and systems development**.
-
 - 🌱 I’m currently learning **Angular and C#**.
 
 - 📫 How to reach me: **becardiine@gmail.com**.
 
-- 💬 Ask me about **HTML, CSS and JS**.
+- 💬 Ask me about **JS and TS**.
 
 - 🤝 I’m looking for help in learning about **backend with C#**.
 
