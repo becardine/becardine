@@ -19,7 +19,7 @@ I'm analysis and systems development student with a passion for web programming.
 
 - 💬 Ask me about **JS and TS**.
 
-- 🤝 I’m looking for help in learning about **backend with C#**.
+- 🤝 I’m looking for help in learning about **backend**.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
