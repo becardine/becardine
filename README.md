@@ -6,6 +6,10 @@
 </h1>
 
 <p align="center">
+
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
+    
   <a href="https://github.com/becardine">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=becardine&theme=radical" alt="becardine's GitHub Contribution"/>
   </a>
